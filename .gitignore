@@ -1,0 +1,6 @@
+
+# Don't check in Maya autosaves
+/maya__bedwyr/autosave/*.ma
+/maya__bedwyr/autosave/*.mb
+
+
